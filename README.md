@@ -1,1 +1,1 @@
-Projeto criado durante o curso de Django da alura
+Projeto criado durante o curso de conhecendo django da alura
